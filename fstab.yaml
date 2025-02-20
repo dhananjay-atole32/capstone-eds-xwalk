@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p27461-e83049.adobeaemcloud.com/bin/franklin.delivery/dhananjay-atole32/capstone-eds-xwalk/main"
+    url: "https://author-p131217-e1277947.adobeaemcloud.com/bin/franklin.delivery/dhananjay-atole32/capstone-eds-xwalk/main"
     type: "markup"
     suffix: ".html"

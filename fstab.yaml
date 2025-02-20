@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p131217-e1277947.adobeaemcloud.com/bin/franklin.delivery/dhananjay-atole32/capstone-eds-xwalk/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/folders/1V8DuDWpRnTHWDRym_wvE1ueRaIHmCtDI

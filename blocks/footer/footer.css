@@ -35,6 +35,12 @@ footer .footer .default-content-wrapper ul {
 
 footer .footer .default-content-wrapper a {
   color: white;
+  background-color: transparent;
+  padding: 0 35px;
+}
+
+footer .footer .default-content-wrapper a  .icon-wknd-logo-light {
+margin: 0;
 }
 
 footer .footer .section:last-of-type .default-content-wrapper p {
